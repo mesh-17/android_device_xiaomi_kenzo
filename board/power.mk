@@ -1,0 +1,5 @@
+# Power
+TARGET_POWERHAL_VARIANT := qcom
+
+# Charger
+BOARD_CHARGER_ENABLE_SUSPEND := true
