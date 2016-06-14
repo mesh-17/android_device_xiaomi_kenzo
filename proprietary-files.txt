@@ -1,0 +1,16 @@
+# Camera
+
+# Camera - front
+
+# Camera - rear
+
+# Fingerprint sensor and firmware
+
+# Sensors
+
+# Signed Venus (media) firmware
+
+# Thermal
+
+# TP firmware
+
